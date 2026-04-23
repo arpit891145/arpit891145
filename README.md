@@ -42,8 +42,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arpit891145&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpit891145&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arpit891145&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
 </div>
 
 <br/>
