@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/imoamo/imoamo/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif" alt="Banner" width="100%" />
+  <img src="https://github.com/imoamo/imoamo/raw/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif" alt="Banner" width="100%" />
   <h1>Hi, I'm Arpit 🧪</h1>
   <h3>Frontend Architect | Next.js, Tailwind & AI Infrastructure</h3>
 </div>
@@ -40,10 +40,10 @@
 <h2 align="center">📊 System Analytics</h2>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arpit891145&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpit891145&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arpit891145&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
 </div>
 
 <br/>
