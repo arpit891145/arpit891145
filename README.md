@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/0d1117/58a6ff?text=Arpit+-+Frontend+Architecture" alt="Banner" width="100%" />
+  <img src="https://github.com/imoamo/imoamo/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif" alt="Banner" width="100%" />
   <h1>Hi, I'm Arpit 🧪</h1>
   <h3>Frontend Architect | Next.js, Tailwind & AI Infrastructure</h3>
 </div>
